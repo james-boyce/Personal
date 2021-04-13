@@ -201,7 +201,7 @@ def filter_dataset(fileNumber):
             final_df.to_feather(str('./Data/Filtered_Data/filter_' + str(FILE_NO) + '.feather'))
     
 
-for num in range(45, 46):
+for num in range(0, 46):
     filter_dataset(num)
     
 
