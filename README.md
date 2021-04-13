@@ -5,4 +5,5 @@ Data_Prep, Sentimental_Analysis and Cluster Analysis were a part of a recent res
 
 ## Example 2
 General_Data_Extraction_Template was created to solve an issue of insufficent memory, an addition .py file is included to display how it was put into practice for numerous datasets
+Cosine_Distance_Per_Prod is a script to compute the Cosine Distance between a specific review vector and one of three method vectors
 
